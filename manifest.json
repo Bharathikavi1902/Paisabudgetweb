@@ -1,0 +1,17 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "PaisaBudget",
+  "short_name": "PaisaBudget",
+  "version": "com.example.hello",
+  "description": "A application for managing home money mangment",
+  "author": "Apache Cordova Team",
+  "icons": [
+    {
+      "src": "res/icon.png",
+      "type": "image/png",
+      "sizes": "undefinedxundefined"
+    }
+  ],
+  "start_url": "index.html"
+}
